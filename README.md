@@ -2,12 +2,12 @@
 
 ## **Introduction**
 
-This is a simple Streamlit app to compare two text files and show the differences between them. It uses the python library [diffib](https://pypi.org/project/diffib/) to compare the files and do some algorithmic magic to show the differences in a nice way (like how GIT does :>).
+This is a simple Streamlit app to compare two text files and show the differences between them. It uses the python library [diffib](https://docs.python.org/3/library/difflib.html) to compare the files and do some algorithmic magic to show the differences in a nice way (like how GIT does :>).
 
 <p align="center">
   <img src="screenshot\Screenshot.png" alt="App Screenshot">
   <br>
-  <i>Inductive Learning vs Inductive Transfer</i>
+  <i>App Screenshot</i>
 </p>
 
 ## **How to run**
