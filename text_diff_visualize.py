@@ -29,9 +29,6 @@ class TextLineVisualize:
         Returns:
             pd.DataFrame: Dataframe of visualization result
         """
-        text1 = text1.strip()
-        text2 = text2.strip()
-
         text1 = text1.split(self.split_char)
         text2 = text2.split(self.split_char)
 
